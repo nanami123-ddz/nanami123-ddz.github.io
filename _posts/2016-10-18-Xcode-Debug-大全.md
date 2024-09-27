@@ -30,4 +30,4 @@ int main()
     return 0;
 }
 ```
-img/post-bg-ioses.jpg
+[img/post-bg-ioses.jpg](https://github.com/nanami123-ddz/nanami123-ddz.github.io/blob/master/img/1.jpg)
